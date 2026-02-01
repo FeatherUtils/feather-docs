@@ -17,3 +17,4 @@
 ## UI BUILDER (ADVANCED) <a href="#ui-builder" id="ui-builder"></a>
 
 * [Basics](ui-builder/basics.md)
+* [Advanced CherryUI Settings](ui-builder/advancedcherrysettings.md)
